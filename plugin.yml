@@ -1,0 +1,16 @@
+name: BoomBow
+
+author: Alec Petridis
+website: http://google.com
+
+main: FireBow
+
+commands:
+    boombow:
+        description: Enable firebow
+    tnt:
+        description: Summon tnt
+    m:
+        description: Send a private message to another player.
+
+version: 0.1
