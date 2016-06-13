@@ -1,5 +1,5 @@
 name: BoomBow
-
+depend: [Factions]
 author: Alec Petridis
 website: http://google.com
 

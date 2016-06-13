@@ -3,8 +3,13 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/Desktop/server/Bukkit/target/bukkit-1.9.4-R0.1-SNAPSHOT.jar!/" />
       <root url="jar://$USER_HOME$/Downloads/Essentials-2.x-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Factions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MassiveCore.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/Factions.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MassiveCore.jar!/" />
+    </SOURCES>
   </library>
 </component>
